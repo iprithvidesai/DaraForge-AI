@@ -115,5 +115,6 @@ Resource-Constrained Teams: Small teams or individual practitioners gain access 
 
 Future Enhancements
 While DataForge AI is production-ready, several enhancements are planned: additional data sources (Papers with Code, AWS Open Data, Google Dataset Search), support for time-series and text datasets, automated feature engineering using deep learning-based approaches, integration with popular ML frameworks (PyTorch, TensorFlow) for seamless model training, and a web dashboard for non-technical stakeholders to request datasets.
+
 Conclusion
 DataForge AI represents a significant step toward democratizing machine learning by removing one of its most significant barriers—data preparation. By combining intelligent search, rigorous quality analysis, and automated preprocessing, the system delivers what ML practitioners truly need: relevant, clean, training-ready datasets. The project demonstrates how AI agents can augment human productivity not by replacing decision-making, but by automating the tedious, repetitive tasks that consume valuable time. In doing so, it allows data scientists and ML engineers to focus on what they do best—building models that solve real problems.
